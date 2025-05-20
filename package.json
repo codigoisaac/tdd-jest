@@ -1,0 +1,14 @@
+{
+  "name": "tdd-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Isaac Muniz",
+  "license": "GPL-3.0",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
